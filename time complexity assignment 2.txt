@@ -1,0 +1,6 @@
+ques1) as loop of j is independent of i;each time it itter for a constant value, hence on directly multiplying we get
+O(n*sqrt(n)).
+ques2) O(n*logn)
+ques3) O(n*logn) 
+ques4) O(n)
+ques3) O(logn)
